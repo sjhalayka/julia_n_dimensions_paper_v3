@@ -1,0 +1,10 @@
+
+
+
+One major difference between Eqs. 14 and 15 is that in Eq. 15, the following relationship among the multiplication operands holds: the magnitude of $A$ is $\ell_s(A)$, and it is equal to the magnitude of $B$ raised to some power, like $\ell_s(B)^x$ or $\ell_s(B)^{1/x}$, where $x$ is a positive integer.
+In Eq. 14, the multiplication operands generally do not have this kind of relationship; that is, $\ell_s(A)$ is not necessarily equal to $\ell_s(B)^x$ or $\ell_s(B)^{1/x}$.
+
+
+
+
+
